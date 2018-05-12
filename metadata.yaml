@@ -1,5 +1,8 @@
 _repo: Red-Masquerade--13-Being-the-Story-of-the-Lone-Wolf-s-Daughter_10496
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vance, Louis Joseph
@@ -20,6 +23,8 @@ description: '<p><B>For the sake of a Russian princess, the Lone Wolf makes an e
   of their separation, and only Lanyard can save her. But rescuing the beautiful princess
   makes an enemy of her husband, who years later seeks his revenge&#8212;by targeting
   a...'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10496#Red-Masquerade--13-Being-the-Story-of-the-Lone-Wolf-s-Daughter
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
